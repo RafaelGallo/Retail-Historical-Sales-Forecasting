@@ -1,5 +1,3 @@
-# Retail Sales Forecasting — Walmart Dataset
-
 ## 📊 Forecasting Weekly Department Sales Across 45 Retail Stores Using Time Series, Gradient Boosting, and Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,23 +19,12 @@
 ![ARIMA](https://img.shields.io/badge/ARIMA-Time%20Series-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![SARIMA](https://img.shields.io/badge/SARIMA-Seasonal-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
 ![AutoARIMA](https://img.shields.io/badge/AutoARIMA-pmdarima-FF4500?style=for-the-badge&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-R²%3D0.98-FF6600?style=for-the-badge&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-R²%3D0.98-02569B?style=for-the-badge&logo=python&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-R²%3D0.97-FFD700?style=for-the-badge&logo=python&logoColor=black)
-![GradientBoosting](https://img.shields.io/badge/Gradient%20Boosting-R²%3D0.98-27AE60?style=for-the-badge&logo=python&logoColor=white)
-![R2](https://img.shields.io/badge/R²-0.9821-27AE60?style=for-the-badge&logo=python&logoColor=white)
-![MAE](https://img.shields.io/badge/MAE-690%2C877-2678B2?style=for-the-badge&logo=python&logoColor=white)
-![RMSE](https://img.shields.io/badge/RMSE-906%2C077-E84545?style=for-the-badge&logo=python&logoColor=white)
-![MSE](https://img.shields.io/badge/MSE-820B-E67E22?style=for-the-badge&logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-2ECC71?style=for-the-badge&logo=python&logoColor=white)
 ![Anomaly](https://img.shields.io/badge/Anomaly%20Detection-Z--Score%20%7C%20IQR%20%7C%20Rolling-E84545?style=for-the-badge&logo=python&logoColor=white)
 ![Retail](https://img.shields.io/badge/Domain-Retail%20Analytics-16A085?style=for-the-badge&logo=shoppingcart&logoColor=white)
 ![Forecasting](https://img.shields.io/badge/Task-Sales%20Forecasting-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![TimeSeries](https://img.shields.io/badge/Time%20Series-Weekly%20Sales-E67E22?style=for-the-badge&logo=python&logoColor=white)
 ![Holiday](https://img.shields.io/badge/Holiday%20Impact-Thanksgiving%20%7C%20Christmas-E84545?style=for-the-badge&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-
-## 📊 Forecasting Weekly Department Sales Across 45 Retail Stores Using Time Series, Gradient Boosting, and Deep Learning
 
 ## 🏪 Business Problem
 
