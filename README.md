@@ -26,6 +26,8 @@
 ![Holiday](https://img.shields.io/badge/Holiday%20Impact-Thanksgiving%20%7C%20Christmas-E84545?style=for-the-badge&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
+![](https://github.com/RafaelGallo/Retail-Historical-Sales-Forecasting/blob/main/img/log.png?raw=true)
+
 ## 🏪 Business Problem
 
 A retail chain operating **45 stores across different regions** needs to forecast weekly department-level sales to:
