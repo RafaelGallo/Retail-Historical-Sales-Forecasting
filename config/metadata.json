@@ -1,0 +1,60 @@
+{
+    "feature_cols_positive": [
+        "Size",
+        "Dept",
+        "MarkDown4",
+        "MarkDown1",
+        "MarkDown5",
+        "MarkDown3",
+        "Temperature"
+    ],
+    "target_col": "Weekly_Sales",
+    "holdout_weeks": 12,
+    "cutoff_date": "2012-08-03",
+    "last_date": "2012-10-26",
+    "train_shape": [
+        306125,
+        7
+    ],
+    "test_shape": [
+        26024,
+        7
+    ],
+    "models_metrics": [
+        {
+            "Model": "Gradient Boosting",
+            "MAE": 3444.52,
+            "MSE": 28262799.9,
+            "RMSE": 5316.28,
+            "R2": 0.8478
+        },
+        {
+            "Model": "LightGBM",
+            "MAE": 3532.54,
+            "MSE": 29563351.02,
+            "RMSE": 5437.22,
+            "R2": 0.8408
+        },
+        {
+            "Model": "XGBoost",
+            "MAE": 3693.83,
+            "MSE": 31498384.05,
+            "RMSE": 5612.34,
+            "R2": 0.8304
+        },
+        {
+            "Model": "CatBoost",
+            "MAE": 4290.25,
+            "MSE": 40670556.94,
+            "RMSE": 6377.35,
+            "R2": 0.781
+        },
+        {
+            "Model": "AdaBoost",
+            "MAE": 10006.47,
+            "MSE": 144747720.06,
+            "RMSE": 12031.11,
+            "R2": 0.2207
+        }
+    ]
+}
